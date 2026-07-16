@@ -1,0 +1,8 @@
+Los servidores son importantes porque permiten que las plataformas digitales funcionen correctamente.
+Una comunidad necesita sistemas disponibles para que los usuarios puedan acceder a los servicios.
+La estabilidad evita interrupciones y mejora la experiencia de las personas.
+La seguridad ayuda a proteger la información y evitar accesos no autorizados.
+Los logs permiten detectar problemas y encontrar soluciones rápidamente.
+El monitoreo ayuda a mantener el servidor funcionando de forma adecuada.
+Un servidor bien administrado genera confianza en los usuarios.
+Por esta razón es importante mantener buenas prácticas de desarrollo y operación.
